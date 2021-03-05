@@ -13,7 +13,7 @@ Reflux themes will now work outside of the IDE more consistently. Rebuild your t
 |:----------------|:---------------------------------------------|
 |**pip**          |`pip install reflux`                          |
 |**poetry**       |`python -m poetry add reflux`                 |
-|**Repl.it**      |Search `reflux` in the package tab and add it.|
+|**Repl.it**      |Search `reflux` in the package tab and add it.(coming soon)|
 
 ### Quickstart
 
